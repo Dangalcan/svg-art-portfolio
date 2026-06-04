@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 370" width="600" height="370">
+<rect width="600" height="370" fill="#0d1117"/>
+<style>.cell { fill: #161b22; stroke: #30363d; stroke-width: 1; }.icon { fill: none; stroke: #e5e7eb; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }.icon-filled { fill: #e5e7eb; stroke: none; }.label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 11px; fill: #9ca3af; text-anchor: middle; }</style>
+<rect class="cell" x="26" y="26" width="128" height="98" rx="8"/>
+<g class="icon" transform="translate(70.0,38) scale(1.6666666666666667)"><rect x="3" y="4" width="18" height="16" rx="2"></rect><path d="M3 9h18"></path><circle cx="6.75" cy="6.75" r="0.9" fill="#e5e7eb" stroke="none"></circle><path d="M7 13.5h7"></path><path d="M7 16.5h10"></path></g>
+<text class="label" x="90.0" y="112">service</text>
+<rect class="cell" x="166" y="26" width="128" height="98" rx="8"/>
+<g class="icon" transform="translate(210.0,38) scale(1.6666666666666667)"><rect x="3" y="7" width="18" height="12" rx="1"></rect><path d="M7 7v12"></path><path d="M11 7v12"></path><path d="M15 7v12"></path><path d="M19 7v12"></path></g>
+<text class="label" x="230.0" y="112">container</text>
+<rect class="cell" x="306" y="26" width="128" height="98" rx="8"/>
+<g class="icon" transform="translate(350.0,38) scale(1.6666666666666667)"><circle cx="12" cy="12" r="2.25"></circle><circle cx="5" cy="5" r="2"></circle><circle cx="19" cy="5" r="2"></circle><circle cx="5" cy="19" r="2"></circle><circle cx="19" cy="19" r="2"></circle><path d="M6.5 6.5l3.9 3.9"></path><path d="M17.5 6.5l-3.9 3.9"></path><path d="M6.5 17.5l3.9-3.9"></path><path d="M17.5 17.5l-3.9-3.9"></path></g>
+<text class="label" x="370.0" y="112">network</text>
+<rect class="cell" x="446" y="26" width="128" height="98" rx="8"/>
+<g class="icon" transform="translate(490.0,38) scale(1.6666666666666667)"><ellipse cx="12" cy="5" rx="8" ry="2.5"></ellipse><path d="M4 5v14c0 1.4 3.6 2.5 8 2.5s8-1.1 8-2.5V5"></path><path d="M4 12c0 1.4 3.6 2.5 8 2.5s8-1.1 8-2.5"></path></g>
+<text class="label" x="510.0" y="112">volume</text>
+<rect class="cell" x="26" y="136" width="128" height="98" rx="8"/>
+<g class="icon" transform="translate(70.0,148) scale(1.6666666666666667)"><rect x="2" y="6" width="6" height="12" rx="1"></rect><rect x="16" y="6" width="6" height="12" rx="1"></rect><path d="M8 12h8"></path><path d="M13 9l3 3-3 3"></path></g>
+<text class="label" x="90.0" y="222">port</text>
+<rect class="cell" x="166" y="136" width="128" height="98" rx="8"/>
+<g class="icon" transform="translate(210.0,148) scale(1.6666666666666667)"><path d="M8 4c-2 0-3 1-3 3v2.5c0 1.2-0.8 2-2 2.5 1.2 0.5 2 1.3 2 2.5V17c0 2 1 3 3 3"></path><path d="M16 4c2 0 3 1 3 3v2.5c0 1.2 0.8 2 2 2.5-1.2 0.5-2 1.3-2 2.5V17c0 2-1 3-3 3"></path><path d="M9.5 12h5"></path></g>
+<text class="label" x="230.0" y="222">env-variable</text>
+<rect class="cell" x="306" y="136" width="128" height="98" rx="8"/>
+<g class="icon" transform="translate(350.0,148) scale(1.6666666666666667)"><rect x="3" y="4" width="18" height="4" rx="0.5"></rect><rect x="3" y="10" width="18" height="4" rx="0.5"></rect><rect x="3" y="16" width="18" height="4" rx="0.5"></rect></g>
+<text class="label" x="370.0" y="222">image</text>
+<rect class="cell" x="446" y="136" width="128" height="98" rx="8"/>
+<g class="icon" transform="translate(490.0,148) scale(1.6666666666666667)"><rect x="3" y="4" width="18" height="16" rx="1"></rect><path d="M3 12h18"></path><rect x="6" y="6.5" width="4" height="4" rx="0.5"></rect><rect x="14" y="6.5" width="4" height="4" rx="0.5"></rect><rect x="6" y="13.5" width="4" height="4" rx="0.5"></rect><rect x="14" y="13.5" width="4" height="4" rx="0.5"></rect></g>
+<text class="label" x="510.0" y="222">registry</text>
+<rect class="cell" x="26" y="246" width="128" height="98" rx="8"/>
+<g class="icon" transform="translate(70.0,258) scale(1.6666666666666667)"><rect x="3" y="6" width="18" height="12" rx="2"></rect><path d="M6 12h2.5l1.5-3.5 2.5 7 1.5-3.5h4"></path></g>
+<text class="label" x="90.0" y="332">healthcheck</text>
+<rect class="cell" x="166" y="246" width="128" height="98" rx="8"/>
+<g class="icon" transform="translate(210.0,258) scale(1.6666666666666667)"><rect x="4" y="3" width="16" height="18" rx="1"></rect><path d="M7 7h10"></path><path d="M7 10h10"></path><path d="M7 13h10"></path><path d="M7 16h7"></path></g>
+<text class="label" x="230.0" y="332">logs</text>
+<rect class="cell" x="306" y="246" width="128" height="98" rx="8"/>
+<g class="icon" transform="translate(350.0,258) scale(1.6666666666666667)"><rect x="4" y="11" width="16" height="10" rx="2"></rect><path d="M8 11V7a4 4 0 0 1 8 0v4"></path><circle cx="12" cy="16" r="0.9" fill="#e5e7eb" stroke="none"></circle></g>
+<text class="label" x="370.0" y="332">secret</text>
+<rect class="cell" x="446" y="246" width="128" height="98" rx="8"/>
+<g class="icon" transform="translate(490.0,258) scale(1.6666666666666667)"><circle cx="12" cy="12" r="9"></circle><path d="M10 8.5l5 3.5-5 3.5z"></path></g>
+<text class="label" x="510.0" y="332">status-running</text>
+</svg>
